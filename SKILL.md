@@ -4,7 +4,8 @@ description: Speak truth to power effectively by calling institutions, nations, 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4754
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prophetic-critique-method
 - writing
