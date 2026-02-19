@@ -3,8 +3,8 @@ name: prophetic-critique-method
 description: Speak truth to power effectively by calling institutions, nations, or movements to account while acknowledging your own complicity - the prophetic voice that speaks from within, not above.
 license: MIT
 metadata:
+  version: 1.0.4755
   author: sethmblack
-  version: 1.0.4754
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prophetic-critique-method
